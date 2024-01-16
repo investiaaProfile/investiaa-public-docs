@@ -1,5 +1,3 @@
-# Terms and Conditions
-
 Welcome to our website. If you continue to browse and use this website, you are agreeing to comply with and be bound by the following terms and conditions of use.
 
 ---
