@@ -107,15 +107,5 @@ The limitations and prohibitions of liability set in this Section and elsewhere 
 
 As long as the website and the information and services on the website are provided free of charge, we will not be liable for any loss or damage of any nature.
 
-## Additional Terms:
 
-### For Entrepreneurs:
-- Business validated by Investiaa are solely based on the document provided by the related entrepreneur associated with the business.
-- Investiaa won't be liable if the provided document based on the government rules and regulations were fake.
-- Investiaa won't be liable for the deals carried out individually after bid acceptance from both parties.
-
-### For Investors and Incubators:
-- Investiaa provides credibility to the business which was thoroughly accessed by Investiaa only.
-- Investiaa won't be accountable for ROI after the deal is finalized.
-- Investiaa doesn't check and track the status of business that has gotten funding after the deal is closed.
 
