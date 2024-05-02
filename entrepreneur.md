@@ -14,3 +14,8 @@
 
 **  5. Confidentiality of Startup Details  
 ** - Investiaa commits to not share any startup details with anyone except registered investors who are verified and approved by Investiaa.
+## Additional Terms:
+
+- Business validated by Investiaa are solely based on the document provided by the related entrepreneur associated with the business.
+- Investiaa won't be liable if the provided document based on the government rules and regulations were fake.
+- Investiaa won't be liable for the deals carried out individually after bid acceptance from both parties.
