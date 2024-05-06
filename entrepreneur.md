@@ -1,4 +1,4 @@
-<b>Terms and Conditions for Entrepreneurs</b>
+# Terms and Conditions for Entrepreneurs
 
 <b>Approval of Business Listing</b>  
 Investiaa reserves the right to approve or reject any business or startup application to list on the platform. </br>The decision to approve will be based on compliance with our listing criteria and other relevant factors.
