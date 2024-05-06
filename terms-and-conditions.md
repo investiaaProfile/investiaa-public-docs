@@ -1,4 +1,4 @@
-## Terms and Conditions
+# Terms and Conditions
 
 Welcome to Investiaa!
 
