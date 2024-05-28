@@ -40,7 +40,7 @@ Entrepreneurs can apply their startups for incubation either on the basis of an 
 ### How Fees Are Calculated
 
 #### Fee Structure for Incubation Based on Incubation Fee (to be paid by Entrepreneurs)
-
+<html>
 <table>
   <tr>
     <th>Incubation Fee Range</th>
@@ -92,7 +92,7 @@ Entrepreneurs can apply their startups for incubation either on the basis of an 
     <td>30000</td>
   </tr>
 </table>
-
+</html>
 
 ### Deal Withdrawal
 - If the incubator withdraws:
