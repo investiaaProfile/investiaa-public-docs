@@ -18,7 +18,7 @@ To place a bid on a project, investors and incubators are required to pay a flat
 - Multiple counterbids for the associated project
 
 
-## Invesriaa Fee structure  for Investment and Incubation 
+## Investiaa Fee structure  for Investment and Incubation 
 
 
 ## For Incubation
