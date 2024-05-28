@@ -40,59 +40,24 @@ Entrepreneurs can apply their startups for incubation either on the basis of an 
 ### How Fees Are Calculated
 
 #### Fee Structure for Incubation Based on Incubation Fee (to be paid by Entrepreneurs)
-<html>
-<table>
-  <tr>
-    <th>Incubation Fee Range</th>
-    <th>Percentage of the Amount</th>
-  </tr>
-  <tr>
-    <td>0.5L - 1.5L</td>
-    <td>2%</td>
-  </tr>
-  <tr>
-    <td>1.5L - 6L</td>
-    <td>1.5%</td>
-  </tr>
-  <tr>
-    <td>6L - 20L</td>
-    <td>1%</td>
-  </tr>
-  <tr>
-    <td>20L - 50L</td>
-    <td>0.7%</td>
-  </tr>
-  <tr>
-    <td>50L & above</td>
-    <td>0.5%</td>
-  </tr>
-</table>
+
+| Incubation Fee Range | Percentage of the Amount |
+|----------------------|--------------------------|
+| 0.5L - 1.5L          | 2%                       |
+| 1.5L - 6L            | 1.5%                     |
+| 6L - 20L             | 1%                       |
+| 20L - 50L            | 0.7%                     |
+| 50L & above          | 0.5%                     |
 
 ### Fee Structure for Incubation Based on Startup Valuation (to be paid by Incubators)
 
-<table>
-  <tr>
-    <th>Valuation Range</th>
-    <th>Associated Fee</th>
-  </tr>
-  <tr>
-    <td>0.5L - 5L</td>
-    <td>5000</td>
-  </tr>
-  <tr>
-    <td>5L - 20L</td>
-    <td>7000</td>
-  </tr>
-  <tr>
-    <td>20L - 50L</td>
-    <td>10000</td>
-  </tr>
-  <tr>
-    <td>50L & above</td>
-    <td>30000</td>
-  </tr>
-</table>
-</html>
+| Valuation Range | Associated Fee |
+|-----------------|----------------|
+| 0.5L - 5L       | 5000           |
+| 5L - 20L        | 7000           |
+| 20L - 50L       | 10000          |
+| 50L & above     | 30000          |
+
 
 ### Deal Withdrawal
 - If the incubator withdraws:
