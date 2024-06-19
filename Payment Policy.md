@@ -41,22 +41,66 @@ Entrepreneurs can apply their startups for incubation either on the basis of an 
 
 #### Fee Structure for Incubation Based on Incubation Fee (to be paid by Entrepreneurs)
 
-| **Incubation Fee Range** | **Amount Associated (Nrs)** |
-|--------------------------|-----------------------------|
-| 0.5L - 1.5L              | 30000                       |
-| 1.5L - 6L                | 9000                        |
-| 6L - 20L                 | 20000                       |
-| 20L - 50L                | 35000                       |
-| 50L & above              | 50000                       |
+<table>
+  <thead>
+    <tr>
+      <th style="border: 1px solid black; padding: 8px;">Incubation Fee Range</th>
+      <th style="border: 1px solid black; padding: 8px;">Amount Associated (Nrs)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;">0.5L - 1.5L</td>
+      <td style="border: 1px solid black; padding: 8px;">30000</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;">1.5L - 6L</td>
+      <td style="border: 1px solid black; padding: 8px;">9000</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;">6L - 20L</td>
+      <td style="border: 1px solid black; padding: 8px;">20000</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;">20L - 50L</td>
+      <td style="border: 1px solid black; padding: 8px;">35000</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;">50L & above</td>
+      <td style="border: 1px solid black; padding: 8px;">50000</td>
+    </tr>
+  </tbody>
+</table>
 
 #### Fee Structure for Incubation Based on Startup Valuation (to be paid by Incubators)
 
-| **Valuation Range**      | **Associated Fee (Nrs)**    |
-|--------------------------|-----------------------------|
-| 0.5L - 5L                | 5000                        |
-| 5L - 20L                 | 7000                        |
-| 20L - 50L                | 10000                       |
-| 50L & above              | 30000                       |
+<table>
+  <thead>
+    <tr>
+      <th style="border: 1px solid black; padding: 8px;">Valuation Range/th>
+      <th style="border: 1px solid black; padding: 8px;">Associated Fee (Nrs)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;">0.5L - 5L</td>
+      <td style="border: 1px solid black; padding: 8px;">5000</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;">5L - 20L</td>
+      <td style="border: 1px solid black; padding: 8px;">7000</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;">20L - 50L</td>
+      <td style="border: 1px solid black; padding: 8px;">10000</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;">50L & above</td>
+      <td style="border: 1px solid black; padding: 8px;">30000</td>
+    </tr>
+  </tbody>
+</table>
+
 
 
 ### Deal Withdrawal
