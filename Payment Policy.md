@@ -41,22 +41,22 @@ Entrepreneurs can apply their startups for incubation either on the basis of an 
 
 #### Fee Structure for Incubation Based on Incubation Fee (to be paid by Entrepreneurs)
 
-| Incubation Fee Range | Amount  Associated|
-|----------------------|-------------------|
-| 0.5L - 1.5L          | 30000             |
-| 1.5L - 6L            |9000               |
-| 6L - 20L             |20000              |
-| 20L - 50L            |35000              |
-| 50L & above          | 50000             |
+| **Incubation Fee Range** | **Amount Associated (Nrs)** |
+|--------------------------|-----------------------------|
+| 0.5L - 1.5L              | 30000                       |
+| 1.5L - 6L                | 9000                        |
+| 6L - 20L                 | 20000                       |
+| 20L - 50L                | 35000                       |
+| 50L & above              | 50000                       |
 
-### Fee Structure for Incubation Based on Startup Valuation (to be paid by Incubators)
+#### Fee Structure for Incubation Based on Startup Valuation (to be paid by Incubators)
 
-| Valuation Range | Associated Fee |
-|-----------------|----------------|
-| 0.5L - 5L       | 5000           |
-| 5L - 20L        | 7000           |
-| 20L - 50L       | 10000          |
-| 50L & above     | 30000          |
+| **Valuation Range**      | **Associated Fee (Nrs)**    |
+|--------------------------|-----------------------------|
+| 0.5L - 5L                | 5000                        |
+| 5L - 20L                 | 7000                        |
+| 20L - 50L                | 10000                       |
+| 50L & above              | 30000                       |
 
 
 ### Deal Withdrawal
