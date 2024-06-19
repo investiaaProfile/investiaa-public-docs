@@ -41,13 +41,13 @@ Entrepreneurs can apply their startups for incubation either on the basis of an 
 
 #### Fee Structure for Incubation Based on Incubation Fee (to be paid by Entrepreneurs)
 
-| Incubation Fee Range | Percentage of the Amount |
-|----------------------|--------------------------|
-| 0.5L - 1.5L          | 2%                       |
-| 1.5L - 6L            | 1.5%                     |
-| 6L - 20L             | 1%                       |
-| 20L - 50L            | 0.7%                     |
-| 50L & above          | 0.5%                     |
+| Incubation Fee Range | Amount  Associated|
+|----------------------|-------------------|
+| 0.5L - 1.5L          | 30000             |
+| 1.5L - 6L            |9000               |
+| 6L - 20L             |20000              |
+| 20L - 50L            |35000              |
+| 50L & above          | 50000             |
 
 ### Fee Structure for Incubation Based on Startup Valuation (to be paid by Incubators)
 
@@ -76,17 +76,17 @@ Entrepreneurs can apply their startups for incubation either on the basis of an 
 #### Incubation Example 2: Based on Incubation Fee
 - **Scenario**: An entrepreneur, Bob, applies for incubation based on an incubation fee.
 - **Fees**:
-  - Incubation fee: Bob is willing to pay 50,000/- as the incubation fee, which falls under the range of 0.5L-1.5L, so the incubation fee is 2% of 50,000/-, which is Nrs 1000.
-  - Startup valuation fee: The valuation of the startup is 4L, which falls between 5L and 20L, so the amount to be paid by the incubator is Nrs 7000.
+  - Incubation fee: Bob is willing to pay 50,000/- as the incubation fee, which falls under the range of 0.5L-1.5L, so the incubation fee is 3000/-. 
+  - Startup valuation fee: The valuation of the startup is 14L, which falls between 5L and 20L, so the amount to be paid by the incubator is Nrs 7000.
 - **Payment Structure**:
-  - Bob pays Nrs 1000.
+  - Bob pays Nrs 3000.
   - The incubator pays Nrs 7000.
 - **Deal Withdrawal**:
-  - If the incubator withdraws the bid, Bob gets his amount of Nrs 1000 back.
+  - If the incubator withdraws the bid, Bob gets his amount of Nrs 3000 back.
 
 ## For Investment
 
-Entrepreneurs can apply their startups for investment either on equity, loan, or both.
+Entrepreneurs can apply their startups for investment either on equity, loans, or both.
 
 ### Fees
 - **Amount asked for investment**: This is the amount being requested for investment.
@@ -104,13 +104,13 @@ Entrepreneurs can apply their startups for investment either on equity, loan, or
 
 #### Fee Structure for Startups Applying for Investment Based on the Asked Amount (to be paid by Investor)
 
-| Asked Amount Range      | Percentage of the Amount |
-|-------------------------|--------------------------|
-| 0.5L - 1.5L             | 2%                       |
-| 1.5L - 6L               | 1.5%                     |
-| 6L - 20L                | 1%                       |
-| 20L - 50L               | 0.7%                     |
-| 50L & above             | 0.5%                     |
+| Asked Amount Range      | Associated Amount |
+|-------------------------|-------------------|
+| 0.5L - 1.5L             | 3000              |
+| 1.5L - 6L               | 9000              |
+| 6L - 20L                | 20000             |
+| 20L - 50L               | 35000             |
+| 50L & above             | 50000             |
 
 #### Fee Structure for Investment Based on Startup Valuation (to be paid by Entrepreneur)
 
@@ -132,34 +132,52 @@ Entrepreneurs can apply their startups for investment either on equity, loan, or
 #### Investment Example 1: Based on Equity
 - **Scenario**: An entrepreneur, Claire, applies for investment based on equity.
 - **Fees**:
-  - Amount asked for investment: Claire's startup is asking for 12L, so the fee is 1% of 12L, which is Nrs 12000.
+  - Amount asked for investment: Claire's startup is asking for 12L, so the Associated fee is 20000/-
   - Startup valuation: The valuation of the startup is 15L, so the startup valuation fee is Nrs 7000 (since it falls between 5L and 20L).
 - **Payment Structure**:
   - The entrepreneur pays Nrs 7000 as the startup valuation fee for Investiaa.
-  - The investor pays Nrs 12000 as the amount asked for investment for Investiaa.
+  - The investor pays Nrs 20000 as the amount asked for investment for Investiaa.
 - **Deal Withdrawal**:
   - If the investor withdraws, the entrepreneur gets the amount (Nrs 7000) refunded.
 
 #### Investment Example 2: Based on Loan
 - **Scenario**: An entrepreneur, David, applies for investment based on a loan.
 - **Fees**:
-  - Amount asked for investment: David's startup is asking for a loan of 10L, so the fee is 1% of 10L, which is Nrs 10000.
+  - Amount asked for investment: David's startup is asking for a loan of 10L, so the associated fee is 20000/-.
   - Startup valuation: The valuation of the startup is 8L, so the startup valuation fee is Nrs 7000 (since it falls between 5L and 20L).
 - **Payment Structure**:
   - The entrepreneur pays Nrs 7000 as the startup valuation fee for Investiaa.
-  - The investor pays Nrs 10000 for Investiaa.
+  - The investor pays Nrs 20000 for Investiaa.
 - **Deal Withdrawal**:
   - If the investor withdraws, the entrepreneur gets the amount (Nrs 7000) refunded.
 
 #### Investment Example 3: Based on Both Loan and Equity
 - **Scenario**: An entrepreneur, Emma, applies for investment based on both loan and equity.
 - **Fees**:
-  - Amount asked for investment: Emma's startup is asking for 5L in equity and 5L in a loan, so the total amount asked for investment is 10L. The fee is 1% of 10L, which is Nrs 10000.
+  - Amount asked for investment: Emma's startup is asking for 5L in equity and 5L in a loan, so the total amount asked for investment is 10L. The associated fee is  Nrs 20000.
   - Startup valuation fee: The valuation of the startup is 10L, so the startup valuation fee is Nrs 7000 (since it falls between 5L and 20L).
 - **Payment Structure**:
   - The entrepreneur pays Nrs 7000 as the startup valuation fee for Investiaa.
-  - The investor pays Nrs 10000 as the total amount asked for investment for Investiaa.
+  - The investor pays Nrs 20000 as the total amount asked for investment for Investiaa.
 - **Deal Withdrawal**:
   - If the investor withdraws, the entrepreneur gets the amount (Nrs 7000) refunded.
 
 For any support contact us at: support@investiaa.com or reach out us [here](https://investiaa.com/contact). 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
